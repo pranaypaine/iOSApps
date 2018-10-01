@@ -67,21 +67,9 @@ struct Weather {
                 completion(forecastArray)
                 
             }
-            
-            
         }
         
         task.resume()
-        
-        
-        
-        
-        
-        
-        
-        
     
     }
-    
-
 }
